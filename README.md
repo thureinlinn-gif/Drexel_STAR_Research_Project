@@ -31,4 +31,4 @@ These results qualitatively replicate key behavioral signatures but highlight th
 - Extend the framework to broader questions in **cognitive science** (e.g., decision-making under uncertainty, multi-step reinforcement learning).
 - Explore applications in **computational neuroscience** and **bio-inspired machine learning**.
 
-## Repository Structure
+
